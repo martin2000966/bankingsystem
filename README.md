@@ -93,7 +93,7 @@ In this feature, administrators can access an existing account by providing the 
 
 This feature allows administrators to exit the admin menu, terminating their session within the system.
 
-### Client Window
+## Client Window
 
 To access the Client Window in the IMT Bank System, clients must provide the correct Bank Account ID and Password for authentication. Within this window, clients can perform the following actions:
 
